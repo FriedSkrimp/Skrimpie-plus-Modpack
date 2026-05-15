@@ -9,3 +9,5 @@
 *.js -text
 *.snbt -text
 *.md -text
+*.ini -text
+*.backup0 -text
