@@ -1529,10 +1529,6 @@ file = "config/etf_warnings.json"
 hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
-file = "config/euphoria_patcher/.data.json"
-hash = "ec79823946573dfeb1daebab14620a7b15675ba8c2fbae20f2ae66d3e5066680"
-
-[[files]]
 file = "config/euphoria_patcher/settings.toml"
 hash = "43f08c046c41d7df5b8d9b7e42febe7cc77780027187335d9bf62ec025984e26"
 

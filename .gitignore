@@ -3,3 +3,6 @@ kubejs/webserver.json
 
 # Ignore any stray .jar files (all mods should be .toml links)
 mods/*.jar
+
+# Any hidden cache files
+config/**/.data.json
