@@ -2,3 +2,10 @@
 * text=auto
 *.toml -text
 *.json -text
+*.bak -text
+*.txt -text
+*.cfg -text
+*.properties -text
+*.js -text
+*.snbt -text
+*.md -text
