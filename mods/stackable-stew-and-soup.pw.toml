@@ -1,0 +1,13 @@
+name = "Stackable Stew and Soup"
+filename = "stackable_stew_and_soup-merged-1.21.1-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd1f5abe4e56d1cf0edf4924fb9ef56f5c6c8882"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5982846
+project-id = 886735

@@ -1,0 +1,13 @@
+name = "Better Swords Trims"
+filename = "Better_Sword_Trims-Neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d6f03ff5a58b2c7a780ec85df297900e6ebdf0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7246472
+project-id = 1387379

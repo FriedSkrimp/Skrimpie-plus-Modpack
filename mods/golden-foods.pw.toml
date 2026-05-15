@@ -1,0 +1,13 @@
+name = "Golden Foods!"
+filename = "golden_foods-merged-1.21.1-2.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b8f2eed84c4a0f9615a770086112b49cb475013"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5860711
+project-id = 873866

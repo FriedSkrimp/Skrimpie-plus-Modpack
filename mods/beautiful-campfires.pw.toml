@@ -1,0 +1,13 @@
+name = "Beautiful Campfires"
+filename = "beautifulcampfires-neoforge-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ee5aedd79b05d8c34540df513f7e236fa8adadf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6162194
+project-id = 1085950

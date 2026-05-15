@@ -1,0 +1,13 @@
+name = "ThirstCanteen"
+filename = "ThirstCanteen-1.21.1-3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8492ac5c3a32d2a0fe73e8f0952ef6fec7504a62"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7303628
+project-id = 969804

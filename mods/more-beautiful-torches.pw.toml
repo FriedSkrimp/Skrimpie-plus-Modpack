@@ -1,0 +1,13 @@
+name = "More Beautiful Torches | +600 New Torches!"
+filename = "more_beautiful_torches-merged-1.21-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd9b664a59cbb187a7a3992ff0aaee619000cace"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5609745
+project-id = 860325

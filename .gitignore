@@ -1,0 +1,5 @@
+# Ignore the local KubeJS auth secret
+kubejs/webserver.json
+
+# Ignore any stray .jar files (all mods should be .toml links)
+mods/*.jar

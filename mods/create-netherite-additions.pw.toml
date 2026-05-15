@@ -1,0 +1,13 @@
+name = "Create Stuff & Netherite Additions"
+filename = "create_sna-1.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d7889a851ab8258bae5edf4af5f85e09d225191"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7127315
+project-id = 1026647

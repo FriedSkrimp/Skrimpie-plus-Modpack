@@ -1,0 +1,13 @@
+name = "Colourful Earth"
+filename = "colourfulearth-1.21-1.0.0-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d439b880a92df51d2ca6ecd3c951aca796bd5e28"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5546483
+project-id = 882731

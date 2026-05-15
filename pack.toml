@@ -1,0 +1,13 @@
+name = "Skrimpie+ Modpack"
+author = "Skrimp"
+version = "26.0.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e89f478631712d6a8ad29d7df289772f23e79d85059c2f15ad36a19063728754"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.226"
